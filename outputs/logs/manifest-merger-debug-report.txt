@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:2:1-60:12
+MERGED from [com.android.support:design:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4daa7e5423452434b2922379344ef3d9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1af81f10fa809a45fce4ff422955aa16/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.volley:volley:1.0.0] /home/samuel/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/bb43c3f492a1b07319f2b2b17b68a86c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jjoe64:graphview:4.2.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/95ecaa9d056e354ba496e1a82913ce07/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/samuel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/71cc0c348c9b54646fa351b006fd37ba/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/92249c16956c7f45b5dbf7812188139d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1166b79fe77e7aaab03a1f561af81d7b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/f4807e8d5483ad5397bdf5d0dd04168a/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/4f904c742d34903643fde11e74c29fbc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/3814c6b9d8aefde734b087f2082486f2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/8f41a4fd9c3472e09d06211f7c71737e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/ab49ccf5a0b8a795cbf89b7621a7727b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/4691565e0e2b3d7dcae3086656ac961f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/9c25ffba252e2d0fcc5ba85062a263ca/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5601144920425d0b41c85a926f943752/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:2:1-60:12
+		INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:2:1-60:12
+		INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:7:22-63
+application
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:9:5-58:19
+MERGED from [com.android.support:design:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4daa7e5423452434b2922379344ef3d9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4daa7e5423452434b2922379344ef3d9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1af81f10fa809a45fce4ff422955aa16/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1af81f10fa809a45fce4ff422955aa16/AndroidManifest.xml:29:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/samuel/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/bb43c3f492a1b07319f2b2b17b68a86c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/samuel/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/bb43c3f492a1b07319f2b2b17b68a86c/AndroidManifest.xml:9:5-20
+MERGED from [com.jjoe64:graphview:4.2.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/95ecaa9d056e354ba496e1a82913ce07/AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/95ecaa9d056e354ba496e1a82913ce07/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/samuel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/71cc0c348c9b54646fa351b006fd37ba/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/samuel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/71cc0c348c9b54646fa351b006fd37ba/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/92249c16956c7f45b5dbf7812188139d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/92249c16956c7f45b5dbf7812188139d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1166b79fe77e7aaab03a1f561af81d7b/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1166b79fe77e7aaab03a1f561af81d7b/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/4f904c742d34903643fde11e74c29fbc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/4f904c742d34903643fde11e74c29fbc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/3814c6b9d8aefde734b087f2082486f2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/3814c6b9d8aefde734b087f2082486f2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/8f41a4fd9c3472e09d06211f7c71737e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/8f41a4fd9c3472e09d06211f7c71737e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/ab49ccf5a0b8a795cbf89b7621a7727b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/ab49ccf5a0b8a795cbf89b7621a7727b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/4691565e0e2b3d7dcae3086656ac961f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/4691565e0e2b3d7dcae3086656ac961f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/9c25ffba252e2d0fcc5ba85062a263ca/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/9c25ffba252e2d0fcc5ba85062a263ca/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5601144920425d0b41c85a926f943752/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5601144920425d0b41c85a926f943752/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:11:9-38
+	android:allowBackup
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:14:9-40
+activity#samuelpedro.moost.login.Login
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:15:19-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:19:27-74
+activity#samuelpedro.moost.receita.Receita
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:22:9-25:51
+	android:label
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:24:13-36
+	android:theme
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:25:13-48
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:23:13-44
+activity#samuelpedro.moost.main.MainActivity
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:27:9-55
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:27:19-52
+activity#samuelpedro.moost.cadastro.Cadastro
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:29:9-31:40
+	android:label
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:30:13-46
+activity#samuelpedro.moost.sobre.Sobre
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:32:9-35:49
+	android:label
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:34:13-34
+	android:theme
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:35:13-46
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:33:13-40
+activity#samuelpedro.moost.fragmento.investimento.Investimentos
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:36:9-39:57
+	android:label
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:38:13-42
+	android:theme
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:39:13-54
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:37:13-65
+activity#samuelpedro.moost.fragmento.graficos.GraficosMoost
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:40:9-43:52
+	android:label
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:42:13-37
+	android:theme
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:41:13-61
+activity#samuelpedro.moost.visaogeral.VisaoGeral
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:44:9-47:49
+	android:label
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:46:13-40
+	android:theme
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:47:13-46
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:45:13-50
+activity#samuelpedro.moost.despesa.Despesas
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:48:9-51:60
+	android:label
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:51:13-48
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:49:13-45
+receiver#samuelpedro.moost.despesa.AlarmReceiver
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:52:9-57:20
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:52:19-56
+intent-filter#android.intent.category.DEFAULT+android.media.action.DISPLAY_NOTIFICATION
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:53:9-56:25
+action#android.media.action.DISPLAY_NOTIFICATION
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:54:13-80
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:54:21-77
+category#android.intent.category.DEFAULT
+ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:55:13-72
+	android:name
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml:55:23-69
+uses-sdk
+INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4daa7e5423452434b2922379344ef3d9/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4daa7e5423452434b2922379344ef3d9/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1af81f10fa809a45fce4ff422955aa16/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1af81f10fa809a45fce4ff422955aa16/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.volley:volley:1.0.0] /home/samuel/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/bb43c3f492a1b07319f2b2b17b68a86c/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /home/samuel/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/bb43c3f492a1b07319f2b2b17b68a86c/AndroidManifest.xml:7:5-43
+MERGED from [com.jjoe64:graphview:4.2.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/95ecaa9d056e354ba496e1a82913ce07/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/95ecaa9d056e354ba496e1a82913ce07/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/samuel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/71cc0c348c9b54646fa351b006fd37ba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/samuel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/71cc0c348c9b54646fa351b006fd37ba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/92249c16956c7f45b5dbf7812188139d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/92249c16956c7f45b5dbf7812188139d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1166b79fe77e7aaab03a1f561af81d7b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1166b79fe77e7aaab03a1f561af81d7b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/f4807e8d5483ad5397bdf5d0dd04168a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/f4807e8d5483ad5397bdf5d0dd04168a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/4f904c742d34903643fde11e74c29fbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/4f904c742d34903643fde11e74c29fbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/3814c6b9d8aefde734b087f2082486f2/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/3814c6b9d8aefde734b087f2082486f2/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/8f41a4fd9c3472e09d06211f7c71737e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/8f41a4fd9c3472e09d06211f7c71737e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/ab49ccf5a0b8a795cbf89b7621a7727b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/ab49ccf5a0b8a795cbf89b7621a7727b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/4691565e0e2b3d7dcae3086656ac961f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/4691565e0e2b3d7dcae3086656ac961f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/9c25ffba252e2d0fcc5ba85062a263ca/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/9c25ffba252e2d0fcc5ba85062a263ca/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5601144920425d0b41c85a926f943752/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5601144920425d0b41c85a926f943752/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4daa7e5423452434b2922379344ef3d9/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+		ADDED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samuel/Desktop/Moostsql/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4daa7e5423452434b2922379344ef3d9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1af81f10fa809a45fce4ff422955aa16/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1af81f10fa809a45fce4ff422955aa16/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/92249c16956c7f45b5dbf7812188139d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/92249c16956c7f45b5dbf7812188139d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1166b79fe77e7aaab03a1f561af81d7b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1166b79fe77e7aaab03a1f561af81d7b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/f4807e8d5483ad5397bdf5d0dd04168a/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/f4807e8d5483ad5397bdf5d0dd04168a/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/4f904c742d34903643fde11e74c29fbc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/4f904c742d34903643fde11e74c29fbc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/3814c6b9d8aefde734b087f2082486f2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/3814c6b9d8aefde734b087f2082486f2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/8f41a4fd9c3472e09d06211f7c71737e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/8f41a4fd9c3472e09d06211f7c71737e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/ab49ccf5a0b8a795cbf89b7621a7727b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/ab49ccf5a0b8a795cbf89b7621a7727b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/4691565e0e2b3d7dcae3086656ac961f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/4691565e0e2b3d7dcae3086656ac961f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/9c25ffba252e2d0fcc5ba85062a263ca/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/9c25ffba252e2d0fcc5ba85062a263ca/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5601144920425d0b41c85a926f943752/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5601144920425d0b41c85a926f943752/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4daa7e5423452434b2922379344ef3d9/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/samuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/4daa7e5423452434b2922379344ef3d9/AndroidManifest.xml:26:9-47

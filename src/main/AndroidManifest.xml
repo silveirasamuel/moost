@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="samuelpedro.moost">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".login.Login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".receita.Receita"
+            android:label="Receita"
+            android:theme="@style/ReceitaTheme" />
+
+        <activity android:name=".main.MainActivity" />
+
+        <activity
+            android:name=".cadastro.Cadastro"
+            android:label="Cadastro" />
+        <activity
+            android:name=".sobre.Sobre"
+            android:label="Sobre"
+            android:theme="@style/sobreTheme" />
+        <activity
+            android:name=".fragmento.investimento.Investimentos"
+            android:label="Investimentos"
+            android:theme="@style/investimentosTheme" />
+        <activity
+            android:name=".fragmento.graficos.GraficosMoost"
+            android:label="Gráficos"
+            android:theme="@style/graficosTheme" />
+        <activity
+            android:name=".visaogeral.VisaoGeral"
+            android:label="Visão Geral"
+            android:theme="@style/visaoGeral" />
+        <activity
+            android:name=".despesa.Despesas"
+            android:label="Despesa"
+            android:theme="@style/despesaStyle"></activity>
+        <receiver android:name=".despesa.AlarmReceiver">
+        <intent-filter>
+            <action android:name="android.media.action.DISPLAY_NOTIFICATION" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>
