@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Moost</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_graficos_moost">GraficosMoost</string>
+    <string-array name="categoriasDespesa">
+        <item>Alimentação</item>
+        <item>Lazer</item>
+        <item>Moradia</item>
+        <item>Água</item>
+        <item>Luz</item>
+        <item>Saúde</item>
+        <item>Transporte</item>
+        <item>Vestuário</item>
+        <item>Comunicação</item>
+        <item>Impostos</item>
+        <item>Outros</item>
+    </string-array>
+
+    <string-array name="categoriasReceita">
+        <item>Salário</item>
+        <item>Investimentos</item>
+        <item>Arrendamento</item>
+        <item>Outros</item>
+    </string-array>
+
+    <string-array name="ano">
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+    </string-array>
+    <string name="title_activity_investimentos">Investimentos</string>
+</resources>

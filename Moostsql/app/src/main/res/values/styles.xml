@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ReceitaTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#04B404</item>
+        <item name="colorPrimaryDark">#04B404</item>
+        <item name="colorAccent">#04B404</item>
+    </style>
+
+    <style name="despesaStyle" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#DF0101</item>
+        <item name="colorPrimaryDark">#DF0101</item>
+        <item name="colorAccent">#DF0101</item>
+    </style>
+
+    <style name="sobreTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#A4A4A4</item>
+        <item name="colorPrimaryDark">#A4A4A4</item>
+        <item name="colorAccent">#A4A4A4</item>
+    </style>
+
+    <style name="investimentosTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#0099ff</item>
+        <item name="colorPrimaryDark">#0099ff</item>
+        <item name="colorAccent">#0099ff</item>
+    </style>
+
+    <style name="graficosTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#FE9A2E</item>
+        <item name="colorPrimaryDark">#FE9A2E</item>
+        <item name="colorAccent">#FE9A2E</item>
+    </style>
+    <style name="visaoGeral" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#ff6600</item>
+        <item name="colorPrimaryDark">#ff6600</item>
+        <item name="colorAccent">#ff6600</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

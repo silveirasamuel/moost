@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="samuelpedro.moost.sobre.Sobre">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/icon"
+        android:scaleType="centerCrop"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="35dp"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:textAlignment="center"
+        android:text="Somos estudantes do CEFET-MG Campus Contagem do curso de Informática e, por meio desse Trabalho de Conclusão de Curso, buscamos oferecer um aplicativo que te auxilie a ter uma gestão de finanças pessoais de uma maneira controlada e organizada!\n
+O Moost foi criado em 2017 pelos alunos Erick Henrique, Filipe Martins e Samuel Pedro e está em desenvolvimento para se tornar um app que possa ser utilizado e adquirido por muitas pessoas, principalmente as que necessitam desse auxílio, já que aproximadamente 30% dos brasileiros possuem algum tipo de dívida, muito disso devido a essa falta de ajuda que buscamos oferecer a você usuário.\n\nEquipe Moost, 2017."
+        android:textSize="17dp"/>
+
+    </LinearLayout>
+</ScrollView>
